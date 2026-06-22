@@ -8,7 +8,7 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-4-FF6384?logo=chart.js)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-95%2B-brightgreen)
 
-A full‑featured online store with product browsing, cart, checkout, order history, and a merchant dashboard. All data is static mock data – no real payments.
+A full‑featured online store with product browsing, cart, checkout, order history, and a merchant dashboard. 
 
 🚀 Live Demo
 
