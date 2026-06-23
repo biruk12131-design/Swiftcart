@@ -71,7 +71,7 @@ SwiftCart/
 
 📸 Screenshot
 
-https://placehold.co/800x500?text=SwiftCart
+![SwiftCart Screenshot ](Copilot_20260624_004756.png)
 
 🚦 Getting Started
 
